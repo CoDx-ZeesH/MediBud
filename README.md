@@ -72,6 +72,3 @@ Unlike general-purpose AI tools, MediBud is built **for healthcare, by healthcar
 **IoT Integration:** MQTT / WebSocket connections for live health monitoring  
 
 ---
-
-# Start development server
-npm run dev
